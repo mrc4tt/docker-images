@@ -1,4 +1,4 @@
-FROM        debian:buster-slim
+FROM        ubuntu:19.10
 
 LABEL       author="mrc4tt" maintainer="mikkel@pwnt.dk"
 
